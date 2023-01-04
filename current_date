@@ -1,0 +1,4 @@
+#!/bin/bash
+date +"The date is: %d"
+date +"The month is: %m"
+date +"The year is: %Y"
